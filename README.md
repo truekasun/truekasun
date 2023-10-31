@@ -1,7 +1,7 @@
 #### 🌐 Find me on:
 [![Ghost](https://img.shields.io/badge/Ghost-%23323330.svg?style=flat&logo=ghost&logoColor=%23F7DF1E)](https://ghost.org/experts/kasun-jayarathna/?via=truekasunonline) [![TechNews.LK](https://img.shields.io/badge/TechNews.LK-800926)](https://technews.lk/author/kasun/) [![Codeaffinity](https://img.shields.io/badge/Codeaffinity-495057)](https://codeaffinity.net#team)
 
-#### 💻 Tech Stack:
+#### 💻 Stack:
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
