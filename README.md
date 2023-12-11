@@ -1,5 +1,5 @@
 #### 🌐 Find me on:
-[![Ghost](https://img.shields.io/badge/Ghost-%23323330.svg?style=flat&logo=ghost&logoColor=%23FFFFFF)](https://ghost.org/experts/kasun-jayarathna/?via=truekasunonline) [![TechNews.LK](https://img.shields.io/badge/TechNews.LK-800926)](https://technews.lk/author/kasun/) [![Codeaffinity](https://img.shields.io/badge/Codeaffinity-495057)](https://codeaffinity.net#team)
+[![Ghost](https://img.shields.io/badge/Ghost-%23323330.svg?style=flat&logo=ghost&logoColor=%23FFFFFF)](https://ghost.org/experts/kasun-jayarathna/?via=ghostcave) [![TechNews.LK](https://img.shields.io/badge/TechNews.LK-800926)](https://technews.lk/author/kasun/) [![Codeaffinity](https://img.shields.io/badge/Codeaffinity-495057)](https://codeaffinity.net#team)
 
 #### 💻 Stack:
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
